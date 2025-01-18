@@ -25,7 +25,8 @@
     "react-dom": "^19.0.0",
     "tailwind-merge": "^2.6.0",
     "tailwindcss-animate": "^1.0.7",
-    "vinxi": "^0.5.1"
+    "vinxi": "^0.5.1",
+    "vite-tsconfig-paths": "^5.1.4"
   },
   "devDependencies": {
     "@types/node": "^22.10.6",
